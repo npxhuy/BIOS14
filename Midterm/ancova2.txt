@@ -1,0 +1,1 @@
+Analysis of Variance TableResponse: GA           Df Sum Sq Mean Sq F value    Pr(>F)    GSD         1 1780.2 1780.18  66.658 4.029e-14 ***pop         8 4403.4  550.42  20.610 < 2.2e-16 ***Residuals 194 5181.0   26.71                      ---Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
